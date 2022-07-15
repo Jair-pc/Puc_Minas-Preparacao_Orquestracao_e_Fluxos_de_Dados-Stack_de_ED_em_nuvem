@@ -1,4 +1,6 @@
-# Stack_de_ED_em_nuvem_Puc
+# Stack_de_ED_em_nuvem_Puc - Atividade 4
+Professor Neylson Crepalde
+https://github.com/neylsoncrepalde/pucminas-data-pipelines
 Projeto sobre Processamento e Orquestração de dados referentes ao Campeonato Brasileiro de Futebol, utilizando Clusters AWS e Airflow.
 
 O que deve ser feito:
